@@ -1,4 +1,5 @@
-Debido a inasistencias en varios laboratorios este proyecto no pudo concretarse de la manera solicitada, 
+Debido a inasistencias en varios laboratorios este proyecto no pudo concretarse de la manera solicitada, ademas al decidir trabajar con una plantilla y lenguaje distinto al aprendido en clases me costo mucho adaptar
+los aprendizajes en clases a mi app,
 se me presentaron demasiados problemas a la hora de agregar firebase por lo que decidi no realizarlo,
 mientras que ne mqtt se logro crear una conexion estable pero no me alcanzo el tiempo para modificar la interfaz como me gustaria.
 Apartado de sqlite con los pedidos pendientes.
